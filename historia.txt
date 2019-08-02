@@ -17,4 +17,10 @@ Esto es una prueba para cherry-pick
 
 Estoy aqui hola
 
+<<<<<<< HEAD
 Que tal como vas
+=======
+Que tal como vas
+
+Muy bien
+>>>>>>> temporal_stash
